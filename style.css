@@ -411,33 +411,33 @@ img{
     display: block;
 }
 
-@media screen and (max-width:400px) {
+/* @media screen and (max-width:400px) {
     .powerstats{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .powerstats li div span{
 
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .biography{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .biography li div span{
 
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .appearance{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .appearance li div span{
 
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .connections{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .connections li div span{
 
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
-}
+} */

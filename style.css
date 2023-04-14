@@ -220,7 +220,7 @@ img{
 
 /* powerstats */
 .powerstats{
-    /* display: none; */
+    display: none;
 }
 .powerstats li{
     display: -webkit-box;
@@ -252,7 +252,7 @@ img{
 }
 /* biography */
 .biography{
-    /* display: none; */
+    display: none;
 }
 .biography li{
     margin: 3.4rem 0;
@@ -273,7 +273,7 @@ img{
 
 /* appearance */
 .appearance{
-    /* display: none; */
+    display: none;
 }
 .appearance li{
     margin: 3.2rem 0;
@@ -309,7 +309,7 @@ img{
 
 /* connections */
 .connections{
-    /* display: none; */
+    display: none;
 }
 .connections li span:first-child{
     display: block;
